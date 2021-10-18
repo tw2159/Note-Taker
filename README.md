@@ -4,7 +4,7 @@
 An application that uses an Express.js back-end that will save and retrieve notes data from a JSON file.
 
 ## Screenshot
-![Screenshot of top of page](.public/assets/image/Screenshot.jpg)
+![Screenshot of top of page](./public/assets/image/Screenshot.jpg)
 
 
 ## Website
